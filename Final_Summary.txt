@@ -1,0 +1,20 @@
+FINAL PROJECT SUMMARY – MVP Targeted Advertising
+
+This project analyzed historical sales data for Marburg Vehicles & Parts (MVP) to help design an effective, data-driven ad campaign.
+
+Key Outcomes:
+- Identified best-selling product lines (e.g., Classic Cars, Motorcycles)
+- Found high-potential countries (e.g., USA, France, Germany)
+- Segmented customers using clustering
+- Predicted sales using regression
+- Classified top 25% high-value customers with a Decision Tree
+
+Recommendations:
+- Promote "Classic Cars" in USA
+- Offer "Vintage Cars" in France with loyalty deals
+- Upsell "Motorcycles" in Germany via digital bundles
+- Personalize campaigns based on product interest and region
+- Focus messaging on large and medium deal sizes
+
+Conclusion:
+Data-driven marketing can help MVP target the right customer with the right product at the right time — improving conversion and ROI.
